@@ -1,0 +1,70 @@
+{
+    "Heroes": [
+      {
+        "id": 1,
+        "name": "Mirana",
+        "image": "https://cdn.dota2.com/apps/dota2/images/heroes/mirana_vert.jpg",
+        "stats": [
+          
+          "HP: ❤️=560",
+          "Mana: 250",
+          "DMG: Per Hit 60",
+          "Attack Speed: 100",
+          "Special Ability: Starfall (Calls down a wave of meteors to damage nearby enemy units), DMG (75), Mana Use (50), Cool Down (7 seconds)"
+        ],
+        "Lore": "Born to a royal family, a blood princess next in line for the Solar Throne, Mirana willingly surrendered any claim to mundane land or titles when she dedicated herself completely to the service of Selemene, Goddess of the Moon."
+      },
+      {
+        "id": 2,
+        "name": "Anti-Mage",
+        "image": "https://cdn.dota2.com/apps/dota2/images/heroes/antimage_vert.jpg",
+        "stats": [
+          "HP: ❤️=538",
+          "Mana: 250",
+          "DMG: Per Hit 53",
+          "Attack Speed: 100",
+          "Special Ability: Mana Break (Each Attack Takes Away 10 Mana)"
+        ],
+        "Lore": " With nothing but a few of Turstarkuri's prized dogmatic scrolls, he crept away to the comparative safety of other lands, swearing to obliterate not only the Dead God's magic users--but to put an end to magic altogether."
+      },
+      {
+        "id": 3,
+        "name": "Crystal Maiden",
+        "image": "https://media.steampowered.com/apps/dota2/images/heroes/crystal_maiden_vert.jpg",
+        "stats": [
+            "HP: ❤️=494",
+            "Mana: 350",
+            "DMG: Per Hit 48",
+            "Attack Speed: 100",
+            "Special Ability: Crystal Nova (A burst of damaging frost, Dmg (60), Mana Use (65)"
+        ],
+        "Lore": "Rylai, the Crystal Maiden, with innate ice powers, faced challenges due to unintentional freezing. Adopted by an Ice Wizard, she mastered the Frozen Arts and became a powerful force."
+      },
+      {
+        "id": 4,
+        "name": "Sand King",
+        "image": "https://dota2.ru/img/heroes/sand_king/portrait.jpg",
+        "stats": [
+            "HP: ❤️=604",
+            "Mana: 295",
+            "DMG: Per Hit 75",
+            "Attack Speed: 110",
+            "Special Ability: Burrow Strike (Sand King burrows, stuns, and damages.) , Dmg (80), Mana Use (70)"
+        ],
+        "Lore": "Sand King, born from living sands, embodies the Scintillant Waste, serving as a guardian, warrior, and ambassador."
+      },
+      {
+        "id": 5,
+        "name": "Nyx assasin",
+        "image": "https://dota2.ru/img/heroes/nyx_assassin/portrait.jpg",
+        "stats": [
+            "HP: ❤️=500",
+            "Mana: 325",
+            "DMG: Per Hit 100",
+            "Attack Speed: 90",
+            "Special Ability: Imaple (Spikes burst, hurling enemies into the air, stunning and damaging them on landing.) , Dmg (80), Mana Use (55)"
+        ],
+        "Lore": "Nyx Assassin, chosen zealot scarab, transformed with a penetrating mind, dagger-like claws, and the ability to project thoughts. His purpose: to kill in the name of the goddess Nyx."
+      }
+    ]
+  }
